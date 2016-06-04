@@ -1,0 +1,16 @@
+{
+  "name": "transitapp",
+  "version": "1.0.0",
+  "description": "Backend for a transit app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "transit",
+    "ford",
+    "mexico-city"
+  ],
+  "author": "Gibryon Bhojraj, Rezaul Hassan, Anitha Kandiah",
+  "license": "ISC"
+}
