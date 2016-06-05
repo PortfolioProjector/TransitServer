@@ -12,5 +12,9 @@
     "mexico-city"
   ],
   "author": "Gibryon Bhojraj, Rezaul Hassan, Anitha Kandiah",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.6"
+  }
 }
